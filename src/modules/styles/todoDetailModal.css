@@ -29,7 +29,7 @@
   border-radius: var(--border-radius-md);
   width: 80%;
   height: min-content;
-  margin: 22% auto;
+  margin: auto;
   position: relative;
 }
 
